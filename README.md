@@ -26,7 +26,13 @@
     [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_sameer_ramzani)
 
 
-  
+- Languages and Tools :
+
+ [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+ [![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png)](https://www.selenium.dev/)
+ [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+ [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://www.kernel.org/)
 
 <!---
 ramzani77/ramzani77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
