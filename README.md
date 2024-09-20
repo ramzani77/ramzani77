@@ -15,6 +15,9 @@
  
 -  🌐 Beyond Tech:
     I'm passionate about mimicry ,expploring places, and sharing knowledge through art of teaching.
+
+- 😄 Pronouns:
+    * He/Him
       
 - 📫 How to reach me ...
 
@@ -22,8 +25,7 @@
     [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sameer-ramzani/)
     [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_sameer_ramzani)
 
-- 😄 Pronouns:
-    * He/Him
+
   
 
 <!---
