@@ -14,7 +14,7 @@
   * Real time Projects
  
 -  🌐 Beyond Tech:
-    I'm passionate about mimicry ,expploring places, and sharing knowledge through art of teaching.
+    I'm passionate about mimicry ,exploring places, and sharing knowledge through art of teaching.
 
 - 😄 Pronouns:
     * He/Him
