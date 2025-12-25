@@ -22,7 +22,7 @@
 - 📫 How to reach me ...
 
     [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sameerrza77@gmail.com)
-    [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sameer-ramzani/)
+    [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sameer-ramzani77/)
     [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_sameer_ramzani)
 
 
